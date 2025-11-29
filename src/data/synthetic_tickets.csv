@@ -1,0 +1,35 @@
+ticket_id,user_id,user_email,category,subject,description,priority,status,created_at
+INC-BUR-001,90000,cristian_franko@ca.frre.utn.edu.ar,Access,Acceso fin de semana,"Necesito permisos para entrar al servidor el domingo, no llego con la entrega.",High,Closed,2025-11-25T04:16:09.258964
+INC-BUR-002,90000,cristian_franko@ca.frre.utn.edu.ar,Software,Sistema lento,Todo va muy lento y estoy perdiendo tiempo valioso. ¡Necesito solución ya!,Critical,Open,2025-11-27T00:16:09.258964
+INC-TEC-101,90001,franc0_o@outlook.com,Network,VPN Error 800,La VPN me desconecta cada vez que intento subir código al repo.,Medium,Open,2025-11-27T03:16:09.258964
+INC-ACC-202,90002,fabio-adrian-arias@hotmail.com.ar,Access,Cuenta Bloqueada,Ingresé mal mi clave 3 veces y se bloqueó el usuario.,High,Open,2025-11-27T03:46:09.258964
+AI-64145,10123,hankard.earnest@neurodesk.ai,Software,Incidencia de Software,"El sistema de producción no carga bien los datos, necesito que lo revisen urgente por favor.",High,Closed,2025-11-21T04:16:20.284877
+AI-90645,10115,gordon.david@neurodesk.ai,Network,Incidencia de Network,"No tengo conexión a la red, no puedo acceder al sistema de producción!!",Medium,In Progress,2025-11-14T04:16:20.873800
+AI-79080,10158,langford.lindsey@neurodesk.ai,Network,Incidencia de Network,"No tengo red en mi estación, no puedo acceder al sistema de producción!!",Medium,Closed,2025-11-27T04:16:21.437815
+AI-61475,10054,corleone.michael@neurodesk.ai,Network,Incidencia de Network,"La red está caida en la planta y no puedo acceder al sistema de producción, urge revisar por favor.",High,In Progress,2025-11-20T04:16:22.172744
+AI-57190,10251,sewkumar.nori@neurodesk.ai,Network,Incidencia de Network,"No tengo conexión a la red, no puedo acceder al sistema de producción, urgente porfa!",High,Closed,2025-10-28T04:16:22.788035
+AI-57569,10194,motlagh..dawn@neurodesk.ai,Hardware,Incidencia de Hardware,"La máquina de ensamblaje no enciende, parece fallo de hardware urgente, necesito ayuda rápido.",Medium,Open,2025-11-10T04:16:23.435556
+AI-14634,10157,landa.hans@neurodesk.ai,Access,Incidencia de Access,"No puedo acceder al sistema de producción, me da error de acceso y no puedo entrar!",Low,Closed,2025-11-19T04:16:24.028386
+AI-92396,10070,devito.tommy@neurodesk.ai,Network,Incidencia de Network,"No tengo acceso a la red, nada carga y necesito revisar unos reportes urgente!!",Medium,In Progress,2025-11-10T04:16:24.630003
+AI-64489,10245,saada.adell@neurodesk.ai,Hardware,Incidencia de Hardware,"Mi laptop no enciende, parece fallo del disco o algo del hardware 😩 necesito trabajar urgente.",Medium,Closed,2025-11-01T04:16:25.281916
+AI-74042,10192,moran.patrick@neurodesk.ai,Network,Incidencia de Network,"La red no funciona, no puedo acceder al sistema de producción y necesito seguir con el turno urgente.",Medium,In Progress,2025-11-17T04:16:25.915277
+AI-90444,10107,givens.myriam@neurodesk.ai,Network,Incidencia de Network,"No tengo conexión a la red y no puedo acceder al CRM, necesito resolverlo rapido porfa.",High,In Progress,2025-11-11T04:16:26.575981
+AI-41207,10302,wilkes.annie@neurodesk.ai,Software,Incidencia de Software,"El sistema de control de la línea no abre, necesito seguir con la producción urgente!",Medium,In Progress,2025-11-21T04:16:27.233271
+AI-13037,10013,barone.francesco..a@neurodesk.ai,Access,Incidencia de Access,"No puedo acceder al sistema, me sale error de Access y no puedo seguir con la producción!!",High,Open,2025-11-15T04:16:27.816817
+AI-42683,10026,boutwell.bonalyn@neurodesk.ai,Software,Incidencia de Software,"El sistema contable no abre, me sale error al intentar cargar las facturas 😕",Low,Open,2025-11-04T04:16:28.440411
+AI-62498,10166,leruth.giovanni@neurodesk.ai,Software,Incidencia de Software,"El sistema de ventas no carga los reportes, necesito enviar el informe antes del cierre del día!",Low,In Progress,2025-11-10T04:16:29.070350
+AI-51936,10058,crimmings...jean@neurodesk.ai,Software,Incidencia de Software,"El programa de control de producción no abre, necesito seguir con el turno ya!",Low,Closed,2025-11-13T04:16:29.697364
+AI-16082,10208,osturnka.adeel@neurodesk.ai,Network,Incidencia de Network,"No tengo conexión a la red, no puedo acceder a los sistemas de producción!!",Medium,In Progress,2025-10-31T04:16:30.232565
+AI-30619,10233,roberson.may@neurodesk.ai,Software,Incidencia de Software,"El sistema de producción no carga bien los datos, parece que el software se colgó otra vez.",Low,Open,2025-11-19T04:16:30.883018
+AI-56483,10247,sadki.nore..@neurodesk.ai,Network,Incidencia de Network,"No tengo conexión a la red, no puedo acceder al sistema de producción 😕.",High,In Progress,2025-11-12T04:16:31.535420
+AI-84883,10225,punjabhi.louis..@neurodesk.ai,Access,Incidencia de Access,"No puedo acceder a algunos archivos compartidos del servidor, me dice “Access Denied”.",Low,In Progress,2025-11-24T04:16:32.200518
+AI-88736,10235,robinson.alain..@neurodesk.ai,Network,Incidencia de Network,"No tengo conexión a la red, no puedo acceder al sistema de producción, urge que lo revisen por favor.",Low,Closed,2025-11-14T04:16:32.887106
+AI-80908,10308,zamora.jennifer@neurodesk.ai,Network,Incidencia de Network,"La red se cayó otra vez, no hay conexión en toda la planta y tengo que revisar unos reportes urgente!!",High,Open,2025-11-21T04:16:33.578577
+AI-42852,10178,mancuso.karen@neurodesk.ai,Network,Incidencia de Network,"No tengo conexión a la red, no puedo acceder al sistema de producción, urge para continuar el turno.",Medium,Open,2025-11-24T04:16:34.319853
+AI-54514,10270,strong.caitrin@neurodesk.ai,Software,Incidencia de Software,"El CRM no carga las cotizaciones, necesito enviar una oferta urgente al cliente!!",High,In Progress,2025-11-14T04:16:34.913657
+AI-84312,10099,galia.lisa@neurodesk.ai,Hardware,Incidencia de Hardware,"Mi laptop no enciende, creo que el disco duro se dañó, necesito que alguien lo revise urgente pls.",Low,Open,2025-11-11T04:16:35.559043
+AI-92515,10056,cornett.lisa.@neurodesk.ai,Hardware,Incidencia de Hardware,"La máquina de ensamblaje no enciende, parece fallo eléctrico, necesito que lo revisen urgente por favor.",Low,In Progress,2025-10-28T04:16:36.253136
+AI-99828,10259,smith.leigh.ann@neurodesk.ai,Access,Incidencia de Access,"No puedo abrir algunos archivos en Access, me sale error y necesito esos datos urgente pls.",High,Closed,2025-11-06T04:16:36.886498
+AI-82318,10304,winthrop.jordan..@neurodesk.ai,Software,Incidencia de Software,"El sistema de producción no carga bien los datos, parece un error de software urgente!!",High,In Progress,2025-11-07T04:16:37.490838
+AI-29645,10198,ndzi.colombui@neurodesk.ai,Software,Incidencia de Software,"El sistema de producción no está respondiendo, creo que es un fallo del software y necesito que lo vean urgente.",High,Closed,2025-11-18T04:16:38.169817
+AI-58155,10304,winthrop.jordan..@neurodesk.ai,Hardware,Incidencia de Hardware,"La máquina de ensamblaje no enciende, parece fallo en el panel principal, urge revisarlo.",Medium,Closed,2025-11-22T04:16:38.871051
