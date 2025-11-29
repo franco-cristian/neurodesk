@@ -24,6 +24,8 @@ No es solo un chatbot; es un orquestador que:
 1.  **Escucha:** Procesa voz y texto con análisis de sentimiento en tiempo real.
 2.  **Diagnostica:** Cruza datos de incidentes técnicos con métricas de carga laboral (HR).
 3.  **Actúa:** Ejecuta automatizaciones reales en la infraestructura de Azure (Runbooks) o sugiere pausas operativas para proteger al usuario.
+   
+    PPT: https://docs.google.com/presentation/d/1pXmVatv8ftG8aLK4sCaC9btqDvBjtwWO1eCdcVRoxq8/edit?usp=sharing
 
 ---
 
