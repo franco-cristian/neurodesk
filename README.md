@@ -75,9 +75,6 @@ Este proyecto demuestra una integración profunda del ecosistema Azure:
 | **Azure Static Web Apps** | Alojamiento global y distribuido del Frontend React + Vite. |
 | **Azure Web App for Containers** | Ejecución del Backend Python en un entorno Serverless aislado. |
 | **Azure Container Registry (ACR)** | Almacenamiento seguro de las imágenes Docker del sistema. |
-| **Azure Logic Apps** | Orquestación de escalado humano (envío de alertas/emails a gerencia). |
-| **Azure Document Intelligence** | OCR para extraer información de manuales en PDF/Imágenes durante la ingesta. |
-| **Managed Identities** | Seguridad Zero-Trust para eliminar credenciales del código fuente. |
 
 ---
 
