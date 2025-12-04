@@ -7,8 +7,7 @@ import { useNeuroStore } from '../../store/useNeuroStore';
 import { UploadWidget } from '../widgets/UploadWidget';
 import { AudioRecorder } from '../../utils/audioRecorder';
 
-// 1. DEFINIR LA URL BASE DINÁMICA
-// Si existe la variable de entorno, úsala. Si no, usa localhost como fallback.
+// Define la URL base. En local usa localhost, en nube usará la variable de entorno.
 const API_URL = import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000';
 
 interface Message {
@@ -184,7 +183,6 @@ export const ChatInterface: React.FC = () => {
         addAgentLog('Consultando políticas y métricas de usuario...', 'thinking');
 
         try {
-            // 2. USAR LA VARIABLE AQUÍ
             const response = await axios.post(`${API_URL}/chat`, {
                 user_id: currentUser?.id || 'unknown',
                 message: text,
@@ -270,7 +268,6 @@ export const ChatInterface: React.FC = () => {
         formData.append('conversation_id', `session-${currentUser?.id}`);
 
         try {
-            // 3. Y TAMBIÉN AQUÍ
             const response = await axios.post<VoiceResponse>(`${API_URL}/chat/voice`, formData, {
                 headers: { 'Content-Type': 'multipart/form-data' },
                 timeout: 30000
